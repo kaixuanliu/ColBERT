@@ -1,0 +1,10 @@
+argparse
+datasets
+gitpython
+ninja
+scipy
+spacy
+torch
+tqdm
+transformers
+ujson
